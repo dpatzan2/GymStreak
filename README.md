@@ -1,7 +1,5 @@
 # GymStreak 💪
 
-## Descripción
-
 GymStreak es una aplicación móvil desarrollada con React Native y Expo que te ayuda a mantener un seguimiento consistente de tus visitas al gimnasio, la aplicación te permite registrar tus asistencias, visualizar tu racha de ejercicio, gestionar días de descanso y mucho más.
 
 ## 🌟Características Principales
@@ -25,7 +23,7 @@ GymStreak es una aplicación móvil desarrollada con React Native y Expo que te 
 1. Clona el repositorio:
 
 ```bash
-git clone [URL del repositorio]
+git clone https://github.com/dpatzan2/GymStreak
 cd GymStreak
 ```
 
